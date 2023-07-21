@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ace-documentation'
+title = 'STEEP DMAC Projects'
+theme = 'minimo'
