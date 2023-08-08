@@ -1,0 +1,39 @@
+{
+    "accessLevel": "public",
+    "bureauCode": [
+        "020:00"
+    ],
+    "contactPoint": {
+        "fn": "James McCord",
+        "hasEmail": "mailto:mccord.james@epa.gov"
+    },
+    "description": "Fluorine measurements for target PFAS and PFAS mixtures, fluorine mass balance calculations, non-targeted compound abundances. This dataset is not publicly accessible because: All data not included in the manuscript supplemental information is property of Harvard University. It can be accessed through the following means: Contact: Elsie Sunderland (ems@seas.harvard.edu). Format: Manuscript supplemental information contains tables of outputs of various assays in terms of concentrations. \n\nThis dataset is associated with the following publication:\nRuyle, B.J., C.P. Thackray, J. McCord, M. Strynar, K.A. Mauge-Lewis, S.E. Fenton, and E.M. Sunderland. Reconstructing the Composition of Per- and Polyfluoroalkyl Substances in Contemporary Aqueous Film-Forming Foams.   Environmental Science & Technology Letters. American Chemical Society, Washington, DC, USA, 8(1): 59-65, (2021).",
+    "distribution": [],
+    "identifier": "https://doi.org/10.23719/1519317",
+    "keyword": [
+        "PFAS",
+        "Aqueous Film Forming Foam",
+        "non-targeted analysis",
+        "Extractable Organic Fluorine",
+        "Total Oxidizeable Precursors"
+    ],
+    "license": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html",
+    "modified": "2020-08-27",
+    "programCode": [
+        "020:095"
+    ],
+    "publisher": {
+        "name": "U.S. EPA Office of Research and Development (ORD)",
+        "subOrganizationOf": {
+            "name": "U.S. Environmental Protection Agency",
+            "subOrganizationOf": {
+                "name": "U.S. Government"
+            }
+        }
+    },
+    "references": [
+        "https://doi.org/10.1021/acs.estlett.0c00798"
+    ],
+    "rights": null,
+    "title": "Fluorine measurements for target PFAS and PFAS mixtures"
+}

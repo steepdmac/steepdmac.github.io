@@ -1,0 +1,68 @@
+{
+    "@type": "dcat:Dataset",
+    "accessLevel": "public",
+    "bureauCode": [
+        "010:12"
+    ],
+    "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Andrea K Tokranov",
+        "hasEmail": "mailto:atokranov@usgs.gov"
+    },
+    "description": "Lake-bottom sediment and associated quality-control samples were collected in August 2020 from one coring location (U.S. Geological Survey station 413756070321301, ASHUMET POND, MASHPEE MI-ASHPD-0011) in Ashumet Pond downgradient from a former fire-training area on Cape Cod, Massachusetts. The core was collected to determine if per- and polyfluoroalkyl substances (PFAS) were present in the bottom sediments of a lake known to have elevated concentrations of PFAS in surface water and groundwater (Tokranov and others, 2021), and whether the sediments could act as a continuous source of PFAS to the lake. Processing the sediment core entailed collection of discrete samples at intervals ranging from 1-5 centimeters (cm) throughout the length of the 112-cm-long core. Radioisotopic dating analysis was performed along 1-cm intervals for the first 10 cm of sediment. A total of 23 sample intervals were submitted for analysis of 28 PFAS, total organic carbon (TOC) and total nitrogen (TN), and 57 sample intervals were submitted for grain size and dry bulk density analysis. Quality control (QC) samples included an aqueous equipment blank collected from the core barrel that was used for sediment sampling, a set of triplicate sediment samples, and laboratory-provided blanks. All QC samples were analyzed for 28 PFAS.Reference:Tokranov, A.K., LeBlanc, D.R., Pickard, H.M., Ruyle, B.J., Barber, L.B., Hull, R.B., Sunderland, E.M., and Vecitis, C.D., 2021, Surface-water/groundwater boundaries affect seasonal PFAS concentrations and PFAA precursor transformations: Environmental Science\u2014Processes &amp; Impacts, v. 23, no. 12, p. 1893-1905, https://doi.org/10.1039/D1EM00329A.",
+    "distribution": [
+        {
+            "@type": "dcat:Distribution",
+            "description": "The metadata original format",
+            "downloadURL": "https://data.usgs.gov/datacatalog/metadata/USGS.6427312dd34e370832ff66ec.xml",
+            "format": "XML",
+            "mediaType": "text/xml",
+            "title": "Original Metadata"
+        },
+        {
+            "@type": "dcat:Distribution",
+            "accessURL": "https://doi.org/10.5066/P9DM4E66",
+            "description": "Landing page for access to the data",
+            "format": "XML",
+            "mediaType": "application/http",
+            "title": "Digital Data"
+        }
+    ],
+    "identifier": "USGS:6427312dd34e370832ff66ec",
+    "keyword": [
+        "limnology",
+        "Cape Cod",
+        "Eastern United States",
+        "hydrogeology",
+        "radiometric dating",
+        "Mashpee",
+        "PFAS",
+        "chemical analysis",
+        "sedimentation",
+        "grain-size analysis",
+        "Sandwich",
+        "environment",
+        "Massachusetts",
+        "Falmouth",
+        "vibracoring",
+        "USGS:6427312dd34e370832ff66ec"
+    ],
+    "modified": "20230620",
+    "publisher": {
+        "@type": "org:Organization",
+        "name": "U.S. Geological Survey",
+        "subOrganizationOf": {
+            "@type": "org:Organization",
+            "name": "U.S. Department of the Interior",
+            "subOrganizationOf": {
+                "@type": "org:Organization",
+                "name": "White House"
+            }
+        }
+    },
+    "spatial": "-70.5369,41.63205,-70.5368,41.6321",
+    "theme": [
+        "geospatial"
+    ],
+    "title": "Concentrations of Per- and Polyfluoroalkyl Substances (PFAS) in Lake-Bottom Sediments of Ashumet Pond on Cape Cod, Massachusetts, 2020"
+}

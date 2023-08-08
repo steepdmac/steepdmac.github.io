@@ -1,0 +1,57 @@
+{
+    "accessLevel": "public",
+    "bureauCode": [
+        "020:00"
+    ],
+    "contactPoint": {
+        "fn": "Mark Strynar",
+        "hasEmail": "mailto:strynar.mark@epa.gov"
+    },
+    "description": "Paper samples, paper extracts (known), paper extracts (unknown). \n\nThis dataset is associated with the following publication:\nSchaider, L., S. Balan, A. Blum, D. Andrews, M. Strynar, M. Dickinson, D. Lunderberg, J. Lang, and G. Peaslee. Fluorinated Compounds in U.S. Fast Food Packaging.   Environmental Science & Technology Letters. American Chemical Society, Washington, DC, USA, 4(3): 105\u2013111, (2017).",
+    "distribution": [
+        {
+            "downloadURL": "https://pasteur.epa.gov/uploads/10.23719/1380227/10-3-16%20Paper%20samples%20for%20PFAS%20extraction.xlsx",
+            "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "title": "10-3-16 Paper samples for PFAS extraction.xlsx"
+        },
+        {
+            "downloadURL": "https://pasteur.epa.gov/uploads/10.23719/1380227/10-14-16%20paper%20extracts%20known%20PFAS.xlsx",
+            "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "title": "10-14-16 paper extracts known PFAS.xlsx"
+        },
+        {
+            "downloadURL": "https://pasteur.epa.gov/uploads/10.23719/1380227/10-19-16%20paper%20extracts%20unknowns.xlsx",
+            "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "title": "10-19-16 paper extracts unknowns.xlsx"
+        }
+    ],
+    "identifier": "https://doi.org/10.23719/1380227",
+    "keyword": [
+        "polyfluorinated compounds",
+        "paper board",
+        "food contact",
+        "fluorinated",
+        "food contact packaging",
+        "non-targeted analysis",
+        "polyfluorinated"
+    ],
+    "license": "https://pasteur.epa.gov/license/sciencehub-license.html",
+    "modified": "2017-08-18",
+    "programCode": [
+        "020:095"
+    ],
+    "publisher": {
+        "name": "U.S. EPA Office of Research and Development (ORD)",
+        "subOrganizationOf": {
+            "name": "U.S. Environmental Protection Agency",
+            "subOrganizationOf": {
+                "name": "U.S. Government"
+            }
+        }
+    },
+    "references": [
+        "https://doi.org/10.1021/acs.estlett.6b00435"
+    ],
+    "rights": null,
+    "title": "Fluorinated Compounds in U.S. Fast Food Packaging"
+}

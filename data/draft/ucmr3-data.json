@@ -1,0 +1,43 @@
+{
+    "accessLevel": "public",
+    "bureauCode": [
+        "020:00"
+    ],
+    "contactPoint": {
+        "fn": "Andrew Lindstrom",
+        "hasEmail": "mailto:lindstrom.andrew@epa.gov"
+    },
+    "description": "Zipped UCMR3 data. \n\nThis dataset is associated with the following publication:\nHU, X., D. Andrews, T. Bruton, A. Lindstrom, L.  Schaider, P. Grandjean, R. Lohmann, C. Carignan, A. Blum, S. Balan, E. Sunderland, and C. Higgins. Detection of Poly- and Perfluoroalkyl Substances (PFASs) in U.S. Dinking Water: Linked to Industrial Sites, Military fire Training Areas and Wastewater Treatment Plants.   Environmental Science & Technology Letters. American Chemical Society, Washington, DC, USA, 3(0): 344-350, (2017).",
+    "distribution": [
+        {
+            "accessURL": "https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule#3",
+            "title": "https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule#3"
+        }
+    ],
+    "identifier": "https://doi.org/10.23719/1380229",
+    "keyword": [
+        "PFOS",
+        "PFOA",
+        "PFNA",
+        "PFHxS",
+        "Polyfluorinated Alkyl Substances (PFAS)",
+        "UCMR3"
+    ],
+    "license": "https://pasteur.epa.gov/license/sciencehub-license.html",
+    "modified": "2017-01-01",
+    "programCode": [
+        "020:096"
+    ],
+    "publisher": {
+        "name": "U.S. EPA Office of Research and Development (ORD)",
+        "subOrganizationOf": {
+            "name": "U.S. Environmental Protection Agency",
+            "subOrganizationOf": {
+                "name": "U.S. Government"
+            }
+        }
+    },
+    "references": null,
+    "rights": null,
+    "title": "UCMR3 data"
+}
