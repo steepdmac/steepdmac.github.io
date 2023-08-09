@@ -1,0 +1,5 @@
+<ul>
+    {{ range (.Pages.ByParam "title") }}
+     <li><a href="{{ .Permalink }}" target="_blank">{{ .Params.title }}</a></li>
+    {{ end }}
+</ul>

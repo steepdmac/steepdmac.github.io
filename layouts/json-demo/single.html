@@ -1,0 +1,7 @@
+{{ if .Params.datalink }}
+    {{ $path := printf "%s" .Params.datalink }}
+    {{ $data := (getJSON $path) }}
+    <h2> Title: {{ $data.title }} </h2>
+    <h3> Description</h3>
+    <p>{{ $data.description }}</p>
+{{ end }}

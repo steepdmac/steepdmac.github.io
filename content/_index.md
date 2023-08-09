@@ -7,3 +7,5 @@ weight: -270
 ---
 > You can have data without information, but you cannot have information without data.
 > — Daniel Keys Moran
+
+- [JSON rendering demo](demo/json)
